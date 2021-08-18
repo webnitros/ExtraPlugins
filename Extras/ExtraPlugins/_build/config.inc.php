@@ -47,6 +47,5 @@ return [
     // Copy file
     'copy' => !empty($_REQUEST['copy']),
     'copy_server' => '',
-    #'copy_server' => 'http://s16305.h4.modhost.pro/copy_package.php',
     'auto_install' => false,
 ];
